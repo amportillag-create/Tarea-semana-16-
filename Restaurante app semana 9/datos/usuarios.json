@@ -1,0 +1,16 @@
+[
+    {
+        "identificacion": "1001",
+        "nombre": "Adriana",
+        "correo": "adriana17@gmail.com",
+        "contrasena": "1234",
+        "rol": "Administrador"
+    },
+    {
+        "identificacion": "1002",
+        "nombre": "Juan",
+        "correo": "juan122@gmail.com",
+        "contrasena": "0000",
+        "rol": "Empleado"
+    }
+]
